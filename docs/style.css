@@ -1,0 +1,24 @@
+body {
+    background-color: #242582;
+}
+p {
+    color: whitesmoke;
+}
+.header{
+    width: 85%;
+    margin: 0px auto;
+    border-bottom: solid whitesmoke 3px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.imgHeader {
+    width: 250px;
+    height: 300px;
+}
+.headerTxt {
+    color: whitesmoke;
+    font-size: 75px;
+    text-align: center;
+    padding-right: 20px;
+}
